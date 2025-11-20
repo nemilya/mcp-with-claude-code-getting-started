@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "my-library": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--project", "../my-library-mcp",
+        "my-library-mcp"
+      ],
+      "type": "stdio",
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}
