@@ -30,8 +30,7 @@ mcp-with-claude-code-getting-started/
 ├── README.md                    # This file - main project documentation
 ├── my-library-mcp/              # MCP Server implementation
 │   ├── my_library/
-│   │   ├── server.py           # Main MCP server code
-│   │   └── core.py             # Core functionality
+│   │   └── server.py           # Main MCP server code
 │   ├── pyproject.toml          # Python project configuration
 │   └── README.md               # Server-specific documentation
 └── app-dir/                    # Application directory for Claude Code
