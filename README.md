@@ -1,5 +1,7 @@
 # MCP Getting Started Demo
 
+![MCP Getting Started Mind Map](getting-started.jpeg)
+
 This is a comprehensive demo project that demonstrates how to create and use MCP (Model Context Protocol) servers with Claude Code. The project shows the complete workflow from server implementation to integration with Claude Code.
 
 ## Quick Start
