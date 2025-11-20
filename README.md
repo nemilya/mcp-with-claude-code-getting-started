@@ -20,7 +20,7 @@ claude-code
 
 # 3. Test your MCP server in Claude Code
 > /mcp list  # Should show "my-library" server
-> Please process the text "Hello MCP World" using the process_text tool
+> Please process the text "Hello MCP World"
 ```
 
 ## Project Structure
